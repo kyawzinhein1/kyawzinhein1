@@ -12,7 +12,7 @@
 I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Yangon, Myanmar
 - :telescope: I’m learning MERN Stack Web Technology and contributing to frontend and backend for building web applications.
 
-  <img src="https://komarev.com/ghpvc/?username=arkarwebdev&label=Profile%20views&color=0e75b6&style=flat" alt="arkarwebdev" /> </p>
+  <img src="https://komarev.com/ghpvc/?username=kyawzinhein1&label=Profile%20views&color=0e75b6&style=flat" alt="kyawzinhein1" /> </p>
 
 - :seedling: Exploring Web Technology.
 
