@@ -1,15 +1,10 @@
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="200"/>
-</div>
 <h1 align="center">
-  Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I am Kyaw Zin Hein
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I am Kyaw Zin Hein
 </h1>
 
----
 
-### :man_technologist: About Me :
-I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Yangon, Myanmar
+### About Me :
+I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="22"> from Yangon, Myanmar
 - :telescope: I’m learning MERN Stack Web Technology and contributing to frontend and backend for building web applications.
 
   <img src="https://komarev.com/ghpvc/?username=kyawzinhein1&label=Profile%20views&color=0e75b6&style=flat" alt="kyawzinhein1" /> </p>
@@ -19,9 +14,6 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 - :zap: In my free time, I read tech articles.
 
 - :mailbox:How to reach me: kyawzinhein162@gmail.com
-
-- <a href="https://www.github.com/kyawzinhein1" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/kyawzinhein1?logo=github&style=for-the-badge&color=84cc16&labelColor=27272a" /></a>
 
 ---
 
@@ -35,7 +27,14 @@ src="https://img.shields.io/github/followers/kyawzinhein1?logo=github&style=for-
 
 ### Socials
 
-<p align="left"> <a href="https://www.facebook.com/profile.php?id=100004465096188&mibextid=ZbWKwL" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/kyawzinhein1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/kyawzinhein-997kzh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> 
+<a href="https://www.facebook.com/profile.php?id=100004465096188&mibextid=ZbWKwL" target="_blank" rel="noreferrer">   
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> 
+<a href="https://www.linkedin.com/in/kyawzinhein-997kzh" target="_blank" rel="noreferrer"> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
+</a>
+</p>
 
 ---
 
