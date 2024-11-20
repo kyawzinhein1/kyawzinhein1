@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I am Kyaw Zin Hein
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Kyaw Zin Hein
 </h1>
 
 
@@ -12,9 +12,9 @@ I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 - :seedling: Exploring Web Technology.
 
-- :zap: In my free time, I read tech articles.
+- :zap: In my free time, I'm learning new technologies.
 
-- :mailbox:How to reach me: kyawzinhein162@gmail.com
+- :mailbox:How to reach me: kyawzinhein.developer@gmail.com
 
 ---
 
